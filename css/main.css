@@ -53,3 +53,19 @@ a:hover {
   color: black;
   text-decoration: underline;
 }
+
+main ol li {
+  list-style-type: lower-greek;
+}
+
+main dl dt {
+  font-weight: bold;
+}
+
+.servesize {
+  font-style: italic;
+}
+
+aside footer ul li {
+  list-style-type: circle;
+}
