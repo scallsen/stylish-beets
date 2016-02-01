@@ -2,6 +2,25 @@
 
 html {
   background-color: #c9b5ae;
+  font-family: "PT serif", serif;
+}
+
+img {
+  width: 100%;
 }
 
 /* Typography */
+ h1, h2 {
+   font-family: "PT sans", sans-serif;
+   font-weight: bold;
+ }
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+}
+
+.heavyinfo {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
