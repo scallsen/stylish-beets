@@ -24,3 +24,14 @@ figcaption {
   font-size: 1.3rem;
   font-weight: bold;
 }
+
+.quoted {
+  font-size: 1.6rem;
+  font-style: italic;
+}
+
+a,
+
+nav ol li {
+  list-style-type: none;
+}
