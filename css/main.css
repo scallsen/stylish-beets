@@ -2,7 +2,8 @@
 
 html {
   background-color: #c9b5ae;
-  font-family: "PT serif", serif;
+  font-family: "PT Serif", serif;
+  font-weight: normal;
 }
 
 img {
@@ -11,7 +12,7 @@ img {
 
 /* Typography */
  h1, h2 {
-   font-family: "PT sans", sans-serif;
+   font-family: "PT Sans", sans-serif;
    font-weight: bold;
  }
 
@@ -30,17 +31,21 @@ figcaption {
   font-style: italic;
 }
 
+/* pull quote */
 nav ol li {
   list-style-type: none;
   font-weight: bold;
   font-family: "PT Sans", sans-serif;
   font-size: 1.2rem;
+  line-height: normal;
 }
 
+/* General Styling */
 a, a:link {
   color: maroon;
 }
 
 a:hover {
   color: black;
+  text-decoration: underline;
 }
